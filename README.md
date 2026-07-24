@@ -45,15 +45,13 @@ Backward Movement
 
 ![Backward](BACKWARD.png)
 
-Turn Right Movement
+ Turn Right Movement
 
-![Turn Right](TURN RIGHT.png)
+![Turn Right](TURN%20RIGHT.png)
 
 Turn Left Movement
 
-![Turn Left](TURN LEFT.png)
-
-
+![Turn Left](TURN%20LEFT.png)
 ---
 
 ## Arduino Code
